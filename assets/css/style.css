@@ -275,7 +275,7 @@ ul.table-of-contents li:not(.logo) a.active, ul.table-of-contents li:not(.logo) 
 }
 
 ul.side-nav.fixed.table-of-contents li:not(.logo) a span, ul#slide-out li:not(.logo) a span {
-  color: #333 !important;
+  color: #5e6368 !important;
 }
 
 li.logo span {
@@ -318,14 +318,14 @@ h3 {
   background: url(../../assets/img/white-ai-wallpaper.jpg) no-repeat top center/cover;
   position: relative;
 } */
-
+/* first page main background important*/
 #intro.section {
-  background: #6D7993 repeat;
+  background: #cfd7e7 repeat;
   position: relative;
 }
-
+/*font for title page important*/
 #intro.section .container {
-  color: white;
+  color: #fcfcfc;
   font-weight: 200;
   left: 0;
   position: absolute;
@@ -344,7 +344,7 @@ h3 {
   /* font-weight: 400; */
   line-height: 150%;
   /* padding: 0 0px; */
-  text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+  text-shadow: 1px 1px 5px rgba(88, 69, 69, 0.5);
 }
 
 #intro.section .underline {
@@ -602,7 +602,7 @@ small {
     position: absolute;
   }
   nav a.button-collapse, nav a.button-collapse i {
-    color: #6D7993;
+    color: #6d7993;
     height: 56px;
     line-height: 56px;
   }
