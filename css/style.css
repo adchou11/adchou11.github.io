@@ -85,7 +85,7 @@
   position: relative;
   padding: 11px 35px;
   background: #fff;
-  color: #647C90;
+  color: #00796b;
   border: 2px solid #fff;
   font-weight: 600;
   font-size: 15px;
@@ -255,9 +255,9 @@ ul.table-of-contents li.logo a.active, ul.table-of-contents li.logo a:hover {
   min-height: 90px;
   padding: 30px 30px 40px;
 } */
-/* top left profile picture background */
+
 ul.side-nav.fixed li.logo {
-  background-color: #f3eae4;
+  background-color: #fafafa;
   border-bottom: 1px solid #ddd;
   box-sizing: content-box;
   min-height: 90px;
@@ -320,7 +320,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #f3eae4 repeat;
+  background: #a7ffeb repeat;
   position: relative;
 }
 
